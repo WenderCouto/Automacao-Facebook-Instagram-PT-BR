@@ -1,0 +1,16 @@
+{
+	"$CAMINHO_ARQUIVO + XLSX": "/Users/Developer/Downloads/Automacao-Facebook-Instagram-PT-BR/src/main/resources/senhas_e_contas_atualizado_exemplo.xlsx",
+	"navegador": "firefox",
+	"ativar bot facebook": true,
+	"link conta cliente/alvo facebook": "https://www.facebook.com/{missing_link}/",
+	"nome do usuario cliente/alvo facebook": "{missing_name}",
+	"numero bots facebook": 20,
+	"ativar bot instagram": false,
+	"link conta cliente/alvo instagram": "https://www.instagram.com/{missing_link}/",
+	"IG do usuario cliente/alvo instagram": "{Não implementado | Não necessário}",
+	"numero bots instagram": 0,
+	"report facebook post by link": true,
+	"inativar bots automaticamente" : true,
+	"numero de instancias por vez": 4,
+	"Timer de trabalho em contas em minutos" : 5
+}
